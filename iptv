@@ -1,201 +1,219 @@
-
-#EXTINF:-1,Bloomberg (US)
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1,Bloomberg US [720p]
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1,Bloomberg (Virginia) [720p]
-https://bblive-liveproduseast.hs.llnwd.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
-#EXTINF:-1,Bloomberg (Europe) [720p]
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1,Bloomberg Europe [720p]
-https://bblive-liveprodeuwest.hs.llnwd.net/btv/desktop/eu_live.m3u8
-
-#EXTINF:-1,Bloomberg (Ireland) [720p]
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-
-#EXTINF:-1,Bloomberg
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-
-#EXTINF:-1,Bloomberg (Asia) [720p]
-https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
-
-#EXTINF:-1,Bloomberg TV (Asia|EN)
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-
-#EXTINF:-1,CNN U.S SD
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1,CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,CNN
-http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
-
-#EXTINF:-1,CNN
-http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
-
-#EXTINF:-1,CNN
-http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
-
-#EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
-
-#EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
-
-#EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?isnpLk=10&rebase=on
-
-#EXTINF:-1,NBC5 News (WMAQ-TV) (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-
-#EXTINF:-1,KTVZ 21 (NBC|FOX) (Oregon)
-http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
-
-#EXTINF:-1,News4 (WRC-TV) (NBC) (Washington, DC)
-http://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-
-#EXTINF:-1,Fox 5 Washington DC (WTTG-TV)
-http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-
-#EXTINF:-1,NewsWest 9 KWES (FOX)
-http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-
-#EXTINF:-1,WXXV25 24/7 (FOX)
-http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-
-#EXTINF:-1,WGN News |HD|(Independent)(Chicago)
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-#EXTINF:-1,C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-
-#EXTINF:-1,C-SPAN 2
-https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-
-#EXTINF:-1,C-SPAN 3
-https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
-
-#EXTINF:-1,TWiT - This Week in Tech
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1,DoughyGuy Broadcast System
-http://65.60.19.42:8380/;stream.nsv
-
-#EXTINF:-1,Adult Swim
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
-
-#EXTINF:-1,Red Bull TV HD
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1,RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1,Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1,Red Bull TV (Opt-1)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1,RED BULL TV OPT 1
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
-
-#EXTINF:-1,Rev'n
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
-
-#EXTINF:-1,ANIMAL PLANET [480p]
-http://80.80.160.168/live/1/live.m3u8
-
-#EXTINF:-1,Discovery Channel HD [720p]
-http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:-1,Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-
-#EXTINF:-1,AMERICAN HORRORS [288p]
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1,FOX Premium Comedy [360p]
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1,FOX Premium Movies
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,RETRO TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-
-#EXTINF:-1,CLASSIC ARTS SHOWCASE [720p]
-https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-
-#EXTINF:-1,SCIENCE CHANNEL
-http://80.80.160.168/live/9/live.m3u8
-
-#EXTINF:-1,SHOWTIME
-http://80.80.160.168/live/7/live.m3u8
-
-#EXTINF:-1,Showtime
-http://80.80.160.168/live/7/2500000/live.m3u8
-
-#EXTINF:-1,HBO2 [360p]
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1,HBO2 [720p]
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-
-#EXTINF:-1,Cartoon Network HD
-http://161.0.157.38/PLTV/88888888/224/3221226843/index.m3u8
-
-#EXTINF:-1,NBC 1
-http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
-#EXTINF:-1,NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
-
-#EXTINF:-1,The Country Network
-http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-
-#EXTINF:-1,RadioMonteCarloTV(1)(FR|IT~EN)
-rtmp://fms.105.net/live/rmc1
-
-#EXTINF:-1,RadioMonteCarloTV(2)(FR|IT~EN)
-rtmp://fms.105.net/live/rmc2
-
-#EXTINF:-1,RadioMonteCarloTV(3)(FR|IT~EN)
-rtmp://fms.105.net:1935/live/rmc1
-
-#EXTINF:-1,Radio 105
-rtmp://fms.105.net:1935/live/105Test1
-
-#EXTINF:-1,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1,Melody Channel TV [480p]
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-
-#EXTINF:-1,QVC (US)
-http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-
-#EXTINF:-1,Jewellery Maker (UK)
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-
-#EXTINF:-1,Free Speech TV
-http://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-
-#EXTINF:-1,InfoWars
-http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-
-#EXTINF:-1,TSTV CH29 UT Austin TV (Texas)
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
-#EXTINF:-1,Dallas, TX TV (a)
-http://oflash-alt.dfw.swagit.com/live/dallastx/smil:hd-16x9-1-a/chunklist.m3u8
-
-#EXTINF:-1,Dallas, TX TV (b)
-http://oflash-alt.dfw.swagit.com/live/dallastx/smil:hd-16x9-1-b/chunklist.m3u8
-
-#EXTINF:-1,KBVR-TV Orange Media Network (Oregon)
-http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTM3U
+#EXTINF:-1,ZDF HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5675.ts
+#EXTINF:-1,3 SAT HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5044.ts
+#EXTINF:-1,SAT 1  HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5750.ts
+#EXTINF:-1,SAT 1 GOLD HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9687.ts
+#EXTINF:-1,SAT 1 EMOTIONS HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10831.ts
+#EXTINF:-1,RTL HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5672.ts
+#EXTINF:-1,RTL HD (DE) (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7683.ts
+#EXTINF:-1,RTL 2 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10843.ts
+#EXTINF:-1,RTL 2 HD (DE) (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5700.ts
+#EXTINF:-1,RTL PLUS HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10907.ts
+#EXTINF:-1,RTL NITRO HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5318.ts
+#EXTINF:-1,RTL CRIME HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5679.ts
+#EXTINF:-1,RTL LIVING HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6396.ts
+#EXTINF:-1,RTL PASSION HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5859.ts
+#EXTINF:-1,SIXX HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4796.ts
+#EXTINF:-1,PRO 7 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5699.ts
+#EXTINF:-1,PRO 7 HD (DE) (L2)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7820.ts
+#EXTINF:-1,PRO 7 FUN HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10333.ts
+#EXTINF:-1,PRO 7 MAXX HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5697.ts
+#EXTINF:-1,VOX HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5783.ts
+#EXTINF:-1,KABEL 1  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4793.ts
+#EXTINF:-1,KABEL 1 CLASSIC HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9685.ts
+#EXTINF:-1,KABEL 1 DOKU HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9686.ts
+#EXTINF:-1,ARTE HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5693.ts
+#EXTINF:-1,PHOENIX HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5696.ts
+#EXTINF:-1,DMAX HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5692.ts
+#EXTINF:-1,ZEE ONE HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9689.ts
+#EXTINF:-1,SERVUS HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9690.ts
+#EXTINF:-1,ORF 1 HD (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5680.ts
+#EXTINF:-1,ORF 2 HD (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4803.ts
+#EXTINF:-1,ORF 3 HD (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7197.ts
+#EXTINF:-1,PULS 4 (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5670.ts
+#EXTINF:-1,ATV HD (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4980.ts
+#EXTINF:-1,ATV 2 (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6771.ts
+#EXTINF:-1,TIROL TV HD (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5185.ts
+#EXTINF:-1,BR HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5982.ts
+#EXTINF:-1,TELE 5 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10908.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5993.ts
+#EXTINF:-1,NATIONAL GEOGRAPHY (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5989.ts
+#EXTINF:-1,NAT GEO WILD HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6471.ts
+#EXTINF:-1,ANIMAL PLANET (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5690.ts
+#EXTINF:-1,HISTORY CHANNEL HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5996.ts
+#EXTINF:-1,SPIEGEL GESCHICHTE HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9693.ts
+#EXTINF:-1,SPIEGEL TV WISSEN HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9694.ts
+#EXTINF:-1,N-TV  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5031.ts
+#EXTINF:-1,N24 TV (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5709.ts
+#EXTINF:-1,N24 DOCU TV (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6019.ts
+#EXTINF:-1,AUSTRIA 24 TV (AT)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5288.ts
+#EXTINF:-1,DW (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7810.ts
+#EXTINF:-1,SRF 1 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5682.ts
+#EXTINF:-1,SRF 2 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5985.ts
+#EXTINF:-1,ZEE ONE BOLLYWOOD HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5866.ts
+#EXTINF:-1,SKY 1 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10861.ts
+#EXTINF:-1,SKY CINEMA HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5658.ts
+#EXTINF:-1,SKY CINEMA +1 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9691.ts
+#EXTINF:-1,SKY CINEMA  24 HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5659.ts
+#EXTINF:-1,SKY ATLANTIC HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5661.ts
+#EXTINF:-1,SKY HITS (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5009.ts
+#EXTINF:-1,SKY ACTION HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5660.ts
+#EXTINF:-1,SKY CINEMA FAMILY HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11304.ts
+#EXTINF:-1,FOX HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5784.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5669.ts
+#EXTINF:-1,TNT FILM HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5667.ts
+#EXTINF:-1,TNT SERIES HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5960.ts
+#EXTINF:-1,TNT COMEDY HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4998.ts
+#EXTINF:-1,SKY COMEDY HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5662.ts
+#EXTINF:-1,SKY KRIMI  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5663.ts
+#EXTINF:-1,SYFY HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5001.ts
+#EXTINF:-1,13TH STREET HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5045.ts
+#EXTINF:-1,KINOWELT HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5748.ts
+#EXTINF:-1,SKY NOSTALGIE (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4996.ts
+#EXTINF:-1,ROMANCE TV (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5677.ts
+#EXTINF:-1,SKY ROMANCE  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5668.ts
+#EXTINF:-1,SKY ARTS HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5033.ts
+#EXTINF:-1,SKY EMOTION HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5665.ts
+#EXTINF:-1,SKY SELECT 1 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5762.ts
+#EXTINF:-1,SKY SELECT 2 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5758.ts
+#EXTINF:-1,SKY SELECT 3 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5759.ts
+#EXTINF:-1,SKY SELECT 4 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5760.ts
+#EXTINF:-1,SKY SELECT 5 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5965.ts
+#EXTINF:-1,SKY SELECT 6 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7816.ts
+#EXTINF:-1,SKY SELECT 7 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7817.ts
+#EXTINF:-1,SKY SELECT 8 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7818.ts
+#EXTINF:-1,SKY SELECT 9 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6535.ts
+#EXTINF:-1,SKY SELECT 10 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7849.ts
+#EXTINF:-1,SKY SELECT 11 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10938.ts
+#EXTINF:-1,SKY SELECT 12 HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10650.ts
+#EXTINF:-1,HYPERCINEMA ACTION HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13719.ts
+#EXTINF:-1,HYPERCINEMA COMEDY HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13720.ts
+#EXTINF:-1,HYPERCINEMA DRAMA HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13721.ts
+#EXTINF:-1,HYPERCINEMA HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13723.ts
+#EXTINF:-1,HYPERCINEMA HORROR HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13722.ts
+#EXTINF:-1,MAXBEST DE HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10895.ts
+#EXTINF:-1,TELECLUB CINEMA HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11012.ts
+#EXTINF:-1,HR HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4792.ts
+#EXTINF:-1,A&E HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4992.ts
+#EXTINF:-1,E! HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7730.ts
+#EXTINF:-1,TLC HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10880.ts
+#EXTINF:-1,SKY SONY HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10879.ts
+#EXTINF:-1,NDR HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9692.ts
+#EXTINF:-1,MUNCHEN TV (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4991.ts
+#EXTINF:-1,WDR HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4737.ts
+#EXTINF:-1,SWR HD  (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4794.ts
+#EXTINF:-1,DRESDEN FERNSEHEN (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5026.ts
+#EXTINF:-1,HALLE HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10810.ts
+#EXTINF:-1,AUGSBURG TV HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11306.ts
+#EXTINF:-1,NOA 4 NORDERSTEDT HD (DE)
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10809.ts
+#EXTINF:-1,RTL LUKSEMBURG HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10805.ts
+#EXTINF:-1,RTL 2 LUKSEMBURG HD
+http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/12196.ts
