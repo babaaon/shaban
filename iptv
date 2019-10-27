@@ -1,33 +1,231 @@
 #EXTM3U
-#EXTINF:-1,SkyDE* Zee One
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/2527.ts
-#EXTINF:-1,SkyDE* ZDF HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/515.ts
-#EXTINF:-1,SkyDE* SAT. 1
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/514.ts
-#EXTINF:-1,SkyDE* Pro 7 HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/509.ts
-#EXTINF:-1,SkyDE* Kabel eins HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/511.ts
-#EXTINF:-1,SkyDE* N24
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/1266.ts
-#EXTINF:-1,SkyDE* One
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3236.ts
-#EXTINF:-1,SkyDE* Arte
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3237.ts
-#EXTINF:-1,SkyDE* Phoenix
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3238.ts
-#EXTINF:-1,SkyDE* RTL HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/512.ts
-#EXTINF:-1,SkyDE* RTL 2 HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/965.ts
-#EXTINF:-1,SkyDE* Super RTL HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/991.ts
-#EXTINF:-1,SkyDE* VOX HD
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/516.ts
-#EXTINF:-1,SkyDE* RTL Nitro
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/968.ts
-#EXTINF:-1,DE: ntv
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/45269.ts
-#EXTINF:-1,DE: RTL Plus
-http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/45604.ts
+#EXTINF:-1,DE: PRO 7 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2908
+#EXTINF:-1,DE: PRO SIEBEN HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2877
+#EXTINF:-1,DE: PROSIEBEN MAXX HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2878
+#EXTINF:-1,DE: PRO 7 FUN HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/11365
+#EXTINF:-1,DE: SIXX HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2875
+#EXTINF:-1,DE: N24 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2886
+#EXTINF:-1,DE: N-TV
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2887
+#EXTINF:-1,DE: RTL I HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2873
+#EXTINF:-1,DE: RTL II HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2874
+#EXTINF:-1,DE: SUPER RTL
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2905
+#EXTINF:-1,DE: RTL NITRO
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2871
+#EXTINF:-1,DE: VOX HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2902
+#EXTINF:-1,DE: SAT. 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3028
+#EXTINF:-1,DE: SAT. 1 GOLD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3493
+#EXTINF:-1,DE: KABEL 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2890
+#EXTINF:-1,DE: SKY 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/11364
+#EXTINF:-1,DE: SKY CINEMA HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2915
+#EXTINF:-1,DE: SKY CINEMA +1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2916
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2917
+#EXTINF:-1,DE: SKY CINEMA +24
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3027
+#EXTINF:-1,DE: SKY EMOTION HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2913
+#EXTINF:-1,DE: SKY COMEDY HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2918
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2919
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2914
+#EXTINF:-1,DE: SKY CINEMA HITS HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2912
+#EXTINF:-1,DE: SKY NOSTALGIE
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2922
+#EXTINF:-1,DE: SKY MGM HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2923
+#EXTINF:-1,DE: SKY ARTS HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4715
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2924
+#EXTINF:-1,DE: WDR HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2901
+#EXTINF:-1,DE: SWR HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2904
+#EXTINF:-1,DE: NDR HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2882
+#EXTINF:-1,DE: TNT FILM HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2911
+#EXTINF:-1,DE: TNT SERIE HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2910
+#EXTINF:-1,DE: TNT COMEDY HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4716
+#EXTINF:-1,DE: SYFY HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2903
+#EXTINF:-1,DE: ZDF HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3032
+#EXTINF:-1,DE: ZDF INFO
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3691
+#EXTINF:-1,DE: ZDF NEO HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/17046
+#EXTINF:-1,DE: ORF 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2880
+#EXTINF:-1,DE: ORF2 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3026
+#EXTINF:-1,DE: ORF 3 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3694
+#EXTINF:-1,DE: HR FERNSEHEN
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2906
+#EXTINF:-1,DE: SONY HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2926
+#EXTINF:-1,DE: SKY RTL PASSION HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2920
+#EXTINF:-1,DE: SKY PLANET HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2921
+#EXTINF:-1,DE: COMEDY CENTRAL / VIVA TV
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4314
+#EXTINF:-1,DE: 13TH STREET HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2930
+#EXTINF:-1,DE: RTL LIVING
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2872
+#EXTINF:-1,DE: RTL CRIME
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4578
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3476
+#EXTINF:-1,DE: TAGESSCHAU 24
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3703
+#EXTINF:-1,DE: ROMANCE TV HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2876
+#EXTINF:-1,DE: PHOENIX
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2879
+#EXTINF:-1,DE: HEIMATKANAL
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2893
+#EXTINF:-1,DE: FOX HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2927
+#EXTINF:-1,DE: A & E
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4318
+#EXTINF:-1,DE: DAS ERSTE
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4312
+#EXTINF:-1,DE: KINOWELT HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4313
+#EXTINF:-1,DE: CLASSICA
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2895
+#EXTINF:-1,DE: 3SAT HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4292
+#EXTINF:-1,DE: AXN HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2929
+#EXTINF:-1,DE: ARTE
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2896
+#EXTINF:-1,DE: ARD HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2899
+#EXTINF:-1,DE: ANIXE HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2900
+#EXTINF:-1,DE: TELE 5
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4579
+#EXTINF:-1,DE: EURONEWS
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/20648
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2931
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2195
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2187
+#EXTINF:-1,DE: SKY SPORT 3 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10806
+#EXTINF:-1,DE: SKY SPORT 4 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10807
+#EXTINF:-1,DE: SKY SPORT 5 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10808
+#EXTINF:-1,DE: SKY SPORT 6 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10809
+#EXTINF:-1,DE: SKY SPORT 7 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10810
+#EXTINF:-1,DE: SKY SPORT 8 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10811
+#EXTINF:-1,DE: SKY SPORT 9 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10812
+#EXTINF:-1,DE: SKY SPORT 10 (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/10813
+#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2982
+#EXTINF:-1,DE: SPORT1 US HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3030
+#EXTINF:-1,DE: SPORT 1+HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3029
+#EXTINF:-1,DE: EUROSPORT
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2932
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/17051
+#EXTINF:-1,DE: SPORTDIGITAL HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2981
+#EXTINF:-1,DE: ORF SPORT PLUS
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3693
+#EXTINF:-1,DE: MOTORVISION TV
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2888
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3033
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2892
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4575
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4573
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4574
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4572
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4570
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4571
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4576
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (Match Time)
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4577
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2883
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2884
+#EXTINF:-1,DE: DISCOVERY CHANNEL HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2885
+#EXTINF:-1,DE: DMAX HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2928
+#EXTINF:-1,DE: HISTORY CHANNEL
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2925
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2894
+#EXTINF:-1,DE: DISNEY XD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4316
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2891
+#EXTINF:-1,DE: DISNEY CINEMAGIC HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/3092
+#EXTINF:-1,DE: NICKNIGHT JR
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2909
+#EXTINF:-1,DE: NICKELODEN HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2881
+#EXTINF:-1,DE: BOOMERANG HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/4315
+#EXTINF:-1,DE: KIKA HD
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2889
+#EXTINF:-1,DE: SKY SELECT 1
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2196
+#EXTINF:-1,DE: SKY SELECT 2
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2197
+#EXTINF:-1,DE: SKY SELECT 3
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2198
+#EXTINF:-1,DE: SKY SELECT 4
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2199
+#EXTINF:-1,DE: SKY SELECT 5
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2200
+#EXTINF:-1,DE: SKY SELECT 6
+http://biloiptv.eu.com:8000/iptvforest/4@8745FG-PfL65/2201
