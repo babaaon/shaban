@@ -1,484 +1,67 @@
-
 #EXTM3U
-#EXTINF:-1,DE: Das Erste HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3463
-#EXTINF:-1,DE: ZDF HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135824
-#EXTINF:-1,DE: ZDF Info HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3487
-#EXTINF:-1,DE: ZDF Neo HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3489
-#EXTINF:-1,DE: RTL HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3424
-#EXTINF:-1,DE: RTL 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3425
-#EXTINF:-1,DE: RTL Crime HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/172482
-#EXTINF:-1,DE: RTL PASSION HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/164963
-#EXTINF:-1,DE: RTL Living HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3483
-#EXTINF:-1,DE: RTL NITRO HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3482
-#EXTINF:-1,DE: RTL PLUS HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8193
-#EXTINF:-1,DE: VOX HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3361
-#EXTINF:-1,DE: PRO 7 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3427
-#EXTINF:-1,DE: PRO 7 Fun HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30053
-#EXTINF:-1,DE: Pro 7 MAXX HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3426
-#EXTINF:-1,DE: Kabel Eins HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3471
-#EXTINF:-1,DE: Kabel Eins Classics HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/29036
-#EXTINF:-1,DE: Arte HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3458
-#EXTINF:-1,DE: SIXX HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173743
-#EXTINF:-1,DE: SERVUS HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132729
-#EXTINF:-1,DE: FOX HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3887
-#EXTINF:-1,DE: SAT 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176190
-#EXTINF:-1,DE: Sat 1 Gold HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30356
-#EXTINF:-1,DE: ZEE ONE HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8493
-#EXTINF:-1,DE: Tele 5 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/29037
-#EXTINF:-1,DE: 3sat HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3456
-#EXTINF:-1,DE: HR HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/172480
-#EXTINF:-1,DE: MDR HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173733
-#EXTINF:-1,DE: NDR HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3429
-#EXTINF:-1,DE: SWR BW HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3421
-#EXTINF:-1,DE: WDR HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173748
-#EXTINF:-1,DE: SRF 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173744
-#EXTINF:-1,DE: SRF 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173745
-#EXTINF:-1,DE: RTL Television
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135822
-#EXTINF:-1,DE: Das Erste FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132828
-#EXTINF:-1,DE: ZDF FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132827
-#EXTINF:-1,DE: RTL FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132818
-#EXTINF:-1,DE: RTL 2 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132817
-#EXTINF:-1,DE: SAT 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132821
-#EXTINF:-1,DE: VOX FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132823
-#EXTINF:-1,DE: RTL Nitro FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3423
-#EXTINF:-1,DE: RTL Crime FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173741
-#EXTINF:-1,DE: RTL PASSION FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173742
-#EXTINF:-1,DE: Pro7 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132820
-#EXTINF:-1,DE: Pro 7 MAXX FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132819
-#EXTINF:-1,DE: Kabel Eins FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132822
-#EXTINF:-1,DE: MDR FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30051
-#EXTINF:-1,DE: NDR FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173737
-#EXTINF:-1,DE: WDR FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3486
-#EXTINF:-1,DE: 3sat FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173451
-#EXTINF:-1,DE: Arte FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132826
-#EXTINF:-1,DE: FOX FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173730
-#EXTINF:-1,DE: SIXX FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/29035
-#EXTINF:-1,DE: ARD 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/195545
-#EXTINF:-1,DE: ZEE ONE FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173751
-#EXTINF:-1,DE: Sky 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30041
-#EXTINF:-1,DE: Sky Cinema HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3404
-#EXTINF:-1,DE: Sky Cinema Hits HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132725
-#EXTINF:-1,DE: Sky Cinema +1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3402
-#EXTINF:-1,DE: Sky Cinema  +24 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3403
-#EXTINF:-1,DE: Sky Cinema Action HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3417
-#EXTINF:-1,DE: Sky Atlantic HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3416
-#EXTINF:-1,DE: Sky Cinema Comedy
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3401
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3400
-#EXTINF:-1,DE: Sky Cinema Family HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30390
-#EXTINF:-1,DE: MAX Premiere  HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/145100
-#EXTINF:-1,DE: MAX Premiere 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/145099
-#EXTINF:-1,DE: MAX Premiere 3 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/145098
-#EXTINF:-1,DE: MAX SELECT HD 1
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209351
-#EXTINF:-1,DE: MAX SELECT HD 2
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209352
-#EXTINF:-1,DE: MAX SELECT HD 3
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209353
-#EXTINF:-1,DE: MAX SELECT HD 4
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209354
-#EXTINF:-1,DE: MAX SELECT HD 5
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209355
-#EXTINF:-1,DE: MAX SELECT HD 6
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209356
-#EXTINF:-1,DE: MAX SELECT HD 7
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209357
-#EXTINF:-1,DE: MAX KINO
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209358
-#EXTINF:-1,DE: MAX KINO 2
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209359
-#EXTINF:-1,DE: MAX KINO 3
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209360
-#EXTINF:-1,DE: MAX KINO COLLECTION
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209361
-#EXTINF:-1,DE: MAX 007
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209362
-#EXTINF:-1,DE: MAX STAR WARS
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/209363
-#EXTINF:-1,DE: SKY SYFY HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3367
-#EXTINF:-1,DE: KINOWELT HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30050
-#EXTINF:-1,DE: Sky Nostalgie
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3396
-#EXTINF:-1,DE: Sky Krimi
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3397
-#EXTINF:-1,DE: TNT Comedy HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30042
-#EXTINF:-1,DE: TNT Film HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3363
-#EXTINF:-1,DE: TNT Serie HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3362
-#EXTINF:-1,DE: HEIMATKANAL HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8196
-#EXTINF:-1,DE: Romance HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30054
-#EXTINF:-1,DE: SAT 1 EMOTION HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/133917
-#EXTINF:-1,DE: Universal Channel HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30043
-#EXTINF:-1,DE: 13th Street HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8195
-#EXTINF:-1,DE: AXN HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173536
-#EXTINF:-1,DE: A&E HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30045
-#EXTINF:-1,DE: E Entertainment HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30048
-#EXTINF:-1,DE: AXN FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3460
-#EXTINF:-1,DE: A&E FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173452
-#EXTINF:-1,DE: 13th-Street FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173450
-#EXTINF:-1,DE: Sky Cinema FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132815
-#EXTINF:-1,DE: Sky Cinema Hits FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132809
-#EXTINF:-1,DE: Sky Cinema +1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132814
-#EXTINF:-1,DE: Sky Cinema  +24 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132813
-#EXTINF:-1,DE: Sky Cinema Action FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132812
-#EXTINF:-1,DE: Sky Cinema Atlantic FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132811
-#EXTINF:-1,DE: Sky Cinema Family FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132810
-#EXTINF:-1,DE: Sky Select Live 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135785
-#EXTINF:-1,DE: Sky Select Live 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135784
-#EXTINF:-1,DE: Sky Select Live 3 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135783
-#EXTINF:-1,DE: Sky Select Live 4 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135782
-#EXTINF:-1,DE: Sky Select Live 5 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135781
-#EXTINF:-1,DE: Sky Select Live 6 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135780
-#EXTINF:-1,DE: Sky Select Live 7 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135779
-#EXTINF:-1,DE: Sky Select Live 8 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135778
-#EXTINF:-1,DE: Sky Select Live 9 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135777
-#EXTINF:-1,DE: Sky Select Live 10 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135776
-#EXTINF:-1,DE: Sky Select Live 11 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135775
-#EXTINF:-1,DE: Sky Select Live 12 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/135774
-#EXTINF:-1,DE: Sky Select 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3395
-#EXTINF:-1,DE: Sky Select 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3394
-#EXTINF:-1,DE: Sky Select 3 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3393
-#EXTINF:-1,DE: Sky Select 4 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3392
-#EXTINF:-1,DE: Sky Select 5 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3391
-#EXTINF:-1,DE: Sky Select 7 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3389
-#EXTINF:-1,DE: Sky Select 8 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3388
-#EXTINF:-1,DE: Eagle Cinema Geschichte HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194825
-#EXTINF:-1,DE: Eagle Cinema KINOSAAL
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194829
-#EXTINF:-1,DE: Eagle Cinema Lächeln HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194824
-#EXTINF:-1,DE: Eagle Cinema Mythologie HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194826
-#EXTINF:-1,DE: Eagle Cinema Romantisch HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194827
-#EXTINF:-1,DE: Eagle Cinema Thriller HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/194828
-#EXTINF:-1,DE: N24 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3430
-#EXTINF:-1,DE: TAGESSCHAU 24
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/174655
-#EXTINF:-1,DE: Phoenix HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30052
-#EXTINF:-1,DE: NTV HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173738
-#EXTINF:-1,DE: DW TV
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/179554
-#EXTINF:-1,DE: EuroNews
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/193913
-#EXTINF:-1,DE: WELT HD+
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132825
-#EXTINF:-1,DE: National Geographic HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173734
-#EXTINF:-1,DE: National Geo Wild HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3454
-#EXTINF:-1,DE: Discovery Channel HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3446
-#EXTINF:-1,DE: Animal Planet HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173453
-#EXTINF:-1,DE: History HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3439
-#EXTINF:-1,DE: TLC HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3365
-#EXTINF:-1,DE: Kabel 1 Doku HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30388
-#EXTINF:-1,DE: DMAX HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3441
-#EXTINF:-1,DE: N24 Doku
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30391
-#EXTINF:-1,DE: Planet HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30044
-#EXTINF:-1,DE: Spiegel Geschichte HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3485
-#EXTINF:-1,DE: Spiegel TV Wissen HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132728
-#EXTINF:-1,DE: Travel Channel HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/172228
-#EXTINF:-1,DE: National Geo Wild FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173736
-#EXTINF:-1,DE: National Geographic  FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3455
-#EXTINF:-1,DE: Animal Planet FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30046
-#EXTINF:-1,DE: Discovery Channel FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173671
-#EXTINF:-1,DE: History FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173732
-#EXTINF:-1,DE: DMAX FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3464
-#EXTINF:-1,DE: Welt HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/174658
-#EXTINF:-1,DE: Sonnenklar.tv
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/198755
-#EXTINF:-1,DE: Delux Music HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30358
-#EXTINF:-1,DE: CLASSICA HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/133922
-#EXTINF:-1,DE: VIVA/COMEDY CENTRAL HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132727
-#EXTINF:-1,DE: VH1
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132726
-#EXTINF:-1,DE: Nitro
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/204305
-#EXTINF:-1,DE: One (ARD)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/204306
-#EXTINF:-1,DE: Disney Channel HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3445
-#EXTINF:-1,DE: Disney XD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3442
-#EXTINF:-1,DE: Disney Junior HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3443
-#EXTINF:-1,DE: Disney Cinemagic HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3444
-#EXTINF:-1,DE: CARTOON NETWORK HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8321
-#EXTINF:-1,DE: Kika HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3435
-#EXTINF:-1,DE: Super RTL HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3368
-#EXTINF:-1,DE: Junior HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3437
-#EXTINF:-1,DE: Nickelodeon HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30359
-#EXTINF:-1,DE: Boomerang HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3449
-#EXTINF:-1,DE: TOGGO PLUS HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8194
-#EXTINF:-1,DE: ANIXE HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173476
-#EXTINF:-1,DE: BABY TV HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173567
-#EXTINF:-1,DE: Super RTL FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173746
-#EXTINF:-1,DE: KIKA FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8186
-#EXTINF:-1,DE: Dazn Bar 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/184952
-#EXTINF:-1,DE: Dazn Bar 2 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/184953
-#EXTINF:-1,DE: Dazn Bar 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/161313
-#EXTINF:-1,DE: Dazn Bar 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/161314
-#EXTINF:-1,DE: Sky Sport 1
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3387
-#EXTINF:-1,DE: Sky Sport HD 1
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3376
-#EXTINF:-1,DE: Sky Sport 1 HD 1080P
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30036
-#EXTINF:-1,DE: Sky Sport 2
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3385
-#EXTINF:-1,DE: Sky Sport HD 2
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3375
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30039
-#EXTINF:-1,DE: Sky Sport 3 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123018
-#EXTINF:-1,DE: Sky Sport 4 (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/106956
-#EXTINF:-1,DE: Sky Sport 4 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123019
-#EXTINF:-1,DE: Sky Sport 5 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123020
-#EXTINF:-1,DE: Sky Sport 6 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123021
-#EXTINF:-1,DE: Sky Sport 7 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123022
-#EXTINF:-1,DE: Sky Sport 8 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123023
-#EXTINF:-1,DE: Sky Sport 9 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123024
-#EXTINF:-1,DE: Sky Sport 10 HD (OFFLINE WHEN NO PLAY FOOTBALL MATCH)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123025
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3405
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD 1080P
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/29997
-#EXTINF:-1,DE: Sky Bundesliga 2 (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3413
-#EXTINF:-1,DE: Sky Bundesliga 3 (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3412
-#EXTINF:-1,DE: Sky Bundesliga 4 (Match time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123115
-#EXTINF:-1,DE: Sky Bundesliga 5 HD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3410
-#EXTINF:-1,DE: Sky Bundesliga 6 Match Time
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3409
-#EXTINF:-1,DE: Sky Bundesliga 7 (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3408
-#EXTINF:-1,DE: Sky Bundesliga 8 (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3407
-#EXTINF:-1,DE: Sky Bundesliga 9 Match Time
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3406
-#EXTINF:-1,DE: SKY Bundesliga 10 match time
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3414
-#EXTINF:-1,DE: Motorvision HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3433
-#EXTINF:-1,DE: Auto Motor Sport Channel HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132513
-#EXTINF:-1,DE: Sky Sport News HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3374
-#EXTINF:-1,DE: Eurosport 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3440
-#EXTINF:-1,DE: Eurosport 2 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30049
-#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/123027
-#EXTINF:-1,DE: Sky Sport Austria
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3377
-#EXTINF:-1,DE: Sport 1 HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3373
-#EXTINF:-1,DE: Sky Sport 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132798
-#EXTINF:-1,DE: Sky Sport 2 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132797
-#EXTINF:-1,DE: Sky Bundesliga 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/3415
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132807
-#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132806
-#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132805
-#EXTINF:-1,DE: Sky Sport Bundesliga 4 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132804
-#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132803
-#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132802
-#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD (Match Time)
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132801
-#EXTINF:-1,DE: Sky Sport News FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132799
-#EXTINF:-1,DE: Sky Sport Austria FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/132800
-#EXTINF:-1,DE: Sport 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/30357
-#EXTINF:-1,DE: Eurosport 1 FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/173729
-#EXTINF:-1,DE: Eurosport 2 Xtra FHD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/133919
-#EXTINF:-1,DE: TELEKOM Eishockey 1HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176362
-#EXTINF:-1,DE: TELEKOM Eishockey 2HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176361
-#EXTINF:-1,DE: TELEKOM FUSSBALL 1HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176360
-#EXTINF:-1,DE: TELEKOM FUSSBALL 2HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176359
-#EXTINF:-1,DE: TELEKOM FUSSBALL 3HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176358
-#EXTINF:-1,DE: TELEKOM FUSSBALL 4HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176357
-#EXTINF:-1,DE: TELEKOM FUSSBALL 5HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176356
-#EXTINF:-1,DE: TELEKOM FUSSBALL 6HD
-http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/176355
+#EXTINF:-1,: EuroNews DE
+http://145.239.252.241:25461/live/IqIwAO7mhy/V5YvwJb4Rr/301.ts
+#EXTINF:0,Ge: DE | DISCOVERY CHANNEL HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2261.ts
+#EXTINF:0,Ge: DE | 13th Street HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2269.ts
+#EXTINF:0,Ge: DE | ANIMAL PLANET HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2267.ts
+#EXTINF:0,Ge: DE | DISNEY CHANNEL
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2260.ts
+#EXTINF:0,Ge: DE | Disney Cinemagic / SKY
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2259.ts
+#EXTINF:0,Ge: DE | Disney Junior / SKY
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2258.ts
+#EXTINF:0,Ge: DE | Disney XD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2257.ts
+#EXTINF:0,Ge: DE | Eurosport 1 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2280.ts
+#EXTINF:0,Ge: DE | EUROSPORT 2 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2279.ts
+#EXTINF:0,Ge: DE | EUROSPORT 2 XTRA
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2278.ts
+#EXTINF:0,Ge: DE | Nat Geo Wild HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2246.ts
+#EXTINF:0,Ge: DE | NATIONAL GEOGRAPHIC
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2245.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 10 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2284.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 2 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2292.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 3 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2291.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 4 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2290.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 5 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2289.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 6 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2288.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 7 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2287.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 8 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2286.ts
+#EXTINF:0,Ge: DE | SKY BUNDESLIGA 9 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2285.ts
+#EXTINF:0,Ge: DE | SKYSPORT 1 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2303.ts
+#EXTINF:0,Ge: DE | SKYSPORT 10 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2294.ts
+#EXTINF:0,Ge: DE | SKYSPORT 2 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2302.ts
+#EXTINF:0,Ge: DE | SKYSPORT 3 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2301.ts
+#EXTINF:0,Ge: DE | SKYSPORT 4 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2300.ts
+#EXTINF:0,Ge: DE | SKYSPORT 5 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2299.ts
+#EXTINF:0,Ge: DE | SKYSPORT 6 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2298.ts
+#EXTINF:0,Ge: DE | SKYSPORT 7 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2297.ts
+#EXTINF:0,Ge: DE | SKYSPORT 8 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2296.ts
+#EXTINF:0,Ge: DE | SKYSPORT 9 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2295.ts
+#EXTINF:0,Ge: DE | SkySport Bundesliga 1 HD
+http://nox101.com:8080/live/Emreavci10/6CSp43534/2293.ts
