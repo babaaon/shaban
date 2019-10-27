@@ -1,5 +1,33 @@
-https://dailyiptvlist.com/dl/de-m3uplaylist-2019-10-22-1.m3u
-https://dailyiptvlist.com/dl/de-m3uplaylist-2019-10-22-2.m3u
-https://dailyiptvlist.com/dl/de-m3uplaylist-2019-10-22-3.m3u
-https://dailyiptvlist.com/dl/de-m3uplaylist-2019-10-22-4.m3u
-https://dailyiptvlist.com/dl/de-m3uplaylist-2019-10-22-5.m3u
+#EXTM3U
+#EXTINF:-1,SkyDE* Zee One
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/2527.ts
+#EXTINF:-1,SkyDE* ZDF HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/515.ts
+#EXTINF:-1,SkyDE* SAT. 1
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/514.ts
+#EXTINF:-1,SkyDE* Pro 7 HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/509.ts
+#EXTINF:-1,SkyDE* Kabel eins HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/511.ts
+#EXTINF:-1,SkyDE* N24
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/1266.ts
+#EXTINF:-1,SkyDE* One
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3236.ts
+#EXTINF:-1,SkyDE* Arte
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3237.ts
+#EXTINF:-1,SkyDE* Phoenix
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/3238.ts
+#EXTINF:-1,SkyDE* RTL HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/512.ts
+#EXTINF:-1,SkyDE* RTL 2 HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/965.ts
+#EXTINF:-1,SkyDE* Super RTL HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/991.ts
+#EXTINF:-1,SkyDE* VOX HD
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/516.ts
+#EXTINF:-1,SkyDE* RTL Nitro
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/968.ts
+#EXTINF:-1,DE: ntv
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/45269.ts
+#EXTINF:-1,DE: RTL Plus
+http://gigaiptv.pro:8000/live/4ZNhLilUhn/1t4ykIfimc/45604.ts
