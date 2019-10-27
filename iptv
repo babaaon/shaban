@@ -1,219 +1,681 @@
 #EXTM3U
-#EXTINF:-1,ZDF HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5675.ts
-#EXTINF:-1,3 SAT HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5044.ts
-#EXTINF:-1,SAT 1  HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5750.ts
-#EXTINF:-1,SAT 1 GOLD HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9687.ts
-#EXTINF:-1,SAT 1 EMOTIONS HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10831.ts
-#EXTINF:-1,RTL HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5672.ts
-#EXTINF:-1,RTL HD (DE) (L2)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7683.ts
-#EXTINF:-1,RTL 2 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10843.ts
-#EXTINF:-1,RTL 2 HD (DE) (L2)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5700.ts
-#EXTINF:-1,RTL PLUS HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10907.ts
-#EXTINF:-1,RTL NITRO HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5318.ts
-#EXTINF:-1,RTL CRIME HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5679.ts
-#EXTINF:-1,RTL LIVING HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6396.ts
-#EXTINF:-1,RTL PASSION HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5859.ts
-#EXTINF:-1,SIXX HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4796.ts
-#EXTINF:-1,PRO 7 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5699.ts
-#EXTINF:-1,PRO 7 HD (DE) (L2)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7820.ts
-#EXTINF:-1,PRO 7 FUN HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10333.ts
-#EXTINF:-1,PRO 7 MAXX HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5697.ts
-#EXTINF:-1,VOX HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5783.ts
-#EXTINF:-1,KABEL 1  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4793.ts
-#EXTINF:-1,KABEL 1 CLASSIC HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9685.ts
-#EXTINF:-1,KABEL 1 DOKU HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9686.ts
-#EXTINF:-1,ARTE HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5693.ts
-#EXTINF:-1,PHOENIX HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5696.ts
-#EXTINF:-1,DMAX HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5692.ts
-#EXTINF:-1,ZEE ONE HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9689.ts
-#EXTINF:-1,SERVUS HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9690.ts
-#EXTINF:-1,ORF 1 HD (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5680.ts
-#EXTINF:-1,ORF 2 HD (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4803.ts
-#EXTINF:-1,ORF 3 HD (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7197.ts
-#EXTINF:-1,PULS 4 (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5670.ts
-#EXTINF:-1,ATV HD (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4980.ts
-#EXTINF:-1,ATV 2 (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6771.ts
-#EXTINF:-1,TIROL TV HD (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5185.ts
-#EXTINF:-1,BR HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5982.ts
-#EXTINF:-1,TELE 5 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10908.ts
-#EXTINF:-1,DISCOVERY CHANNEL HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5993.ts
-#EXTINF:-1,NATIONAL GEOGRAPHY (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5989.ts
-#EXTINF:-1,NAT GEO WILD HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6471.ts
-#EXTINF:-1,ANIMAL PLANET (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5690.ts
-#EXTINF:-1,HISTORY CHANNEL HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5996.ts
-#EXTINF:-1,SPIEGEL GESCHICHTE HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9693.ts
-#EXTINF:-1,SPIEGEL TV WISSEN HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9694.ts
-#EXTINF:-1,N-TV  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5031.ts
-#EXTINF:-1,N24 TV (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5709.ts
-#EXTINF:-1,N24 DOCU TV (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6019.ts
-#EXTINF:-1,AUSTRIA 24 TV (AT)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5288.ts
-#EXTINF:-1,DW (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7810.ts
-#EXTINF:-1,SRF 1 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5682.ts
-#EXTINF:-1,SRF 2 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5985.ts
-#EXTINF:-1,ZEE ONE BOLLYWOOD HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5866.ts
-#EXTINF:-1,SKY 1 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10861.ts
-#EXTINF:-1,SKY CINEMA HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5658.ts
-#EXTINF:-1,SKY CINEMA +1 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9691.ts
-#EXTINF:-1,SKY CINEMA  24 HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5659.ts
-#EXTINF:-1,SKY ATLANTIC HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5661.ts
-#EXTINF:-1,SKY HITS (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5009.ts
-#EXTINF:-1,SKY ACTION HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5660.ts
-#EXTINF:-1,SKY CINEMA FAMILY HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11304.ts
-#EXTINF:-1,FOX HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5784.ts
-#EXTINF:-1,UNIVERSAL CHANNEL HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5669.ts
-#EXTINF:-1,TNT FILM HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5667.ts
-#EXTINF:-1,TNT SERIES HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5960.ts
-#EXTINF:-1,TNT COMEDY HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4998.ts
-#EXTINF:-1,SKY COMEDY HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5662.ts
-#EXTINF:-1,SKY KRIMI  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5663.ts
-#EXTINF:-1,SYFY HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5001.ts
-#EXTINF:-1,13TH STREET HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5045.ts
-#EXTINF:-1,KINOWELT HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5748.ts
-#EXTINF:-1,SKY NOSTALGIE (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4996.ts
-#EXTINF:-1,ROMANCE TV (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5677.ts
-#EXTINF:-1,SKY ROMANCE  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5668.ts
-#EXTINF:-1,SKY ARTS HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5033.ts
-#EXTINF:-1,SKY EMOTION HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5665.ts
-#EXTINF:-1,SKY SELECT 1 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5762.ts
-#EXTINF:-1,SKY SELECT 2 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5758.ts
-#EXTINF:-1,SKY SELECT 3 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5759.ts
-#EXTINF:-1,SKY SELECT 4 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5760.ts
-#EXTINF:-1,SKY SELECT 5 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5965.ts
-#EXTINF:-1,SKY SELECT 6 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7816.ts
-#EXTINF:-1,SKY SELECT 7 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7817.ts
-#EXTINF:-1,SKY SELECT 8 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7818.ts
-#EXTINF:-1,SKY SELECT 9 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/6535.ts
-#EXTINF:-1,SKY SELECT 10 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7849.ts
-#EXTINF:-1,SKY SELECT 11 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10938.ts
-#EXTINF:-1,SKY SELECT 12 HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10650.ts
-#EXTINF:-1,HYPERCINEMA ACTION HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13719.ts
-#EXTINF:-1,HYPERCINEMA COMEDY HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13720.ts
-#EXTINF:-1,HYPERCINEMA DRAMA HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13721.ts
-#EXTINF:-1,HYPERCINEMA HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13723.ts
-#EXTINF:-1,HYPERCINEMA HORROR HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/13722.ts
-#EXTINF:-1,MAXBEST DE HD
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10895.ts
-#EXTINF:-1,TELECLUB CINEMA HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11012.ts
-#EXTINF:-1,HR HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4792.ts
-#EXTINF:-1,A&E HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4992.ts
-#EXTINF:-1,E! HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/7730.ts
-#EXTINF:-1,TLC HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10880.ts
-#EXTINF:-1,SKY SONY HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10879.ts
-#EXTINF:-1,NDR HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/9692.ts
-#EXTINF:-1,MUNCHEN TV (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4991.ts
-#EXTINF:-1,WDR HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4737.ts
-#EXTINF:-1,SWR HD  (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/4794.ts
-#EXTINF:-1,DRESDEN FERNSEHEN (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/5026.ts
-#EXTINF:-1,HALLE HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10810.ts
-#EXTINF:-1,AUGSBURG TV HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/11306.ts
-#EXTINF:-1,NOA 4 NORDERSTEDT HD (DE)
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10809.ts
-#EXTINF:-1,RTL LUKSEMBURG HD
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/10805.ts
-#EXTINF:-1,RTL 2 LUKSEMBURG HD
-http://twobrotherss.tk:8000/live/IcRLwVd77W/08vGFaCWoa/12196.ts
+#EXTINF:-1,DE: Das Erste
+http://config.streamstv.me:8080/FARUK/123456/21015
+#EXTINF:-1,DE : DAS ERSTE
+http://config.streamstv.me:8080/FARUK/123456/40631
+#EXTINF:-1,DE: Das Erste FHD
+http://config.streamstv.me:8080/FARUK/123456/28453
+#EXTINF:-1,DE: ZDF HD
+http://config.streamstv.me:8080/FARUK/123456/20856
+#EXTINF:-1,DE : ZDF
+http://config.streamstv.me:8080/FARUK/123456/28387
+#EXTINF:-1,DE: ZDF info HD
+http://config.streamstv.me:8080/FARUK/123456/20855
+#EXTINF:-1,DE: ZDF neo HD
+http://config.streamstv.me:8080/FARUK/123456/20854
+#EXTINF:-1,DE : RTL HD
+http://config.streamstv.me:8080/FARUK/123456/20948
+#EXTINF:-1,DE: RTL FHD
+http://config.streamstv.me:8080/FARUK/123456/28421
+#EXTINF:-1,DE : RTL II
+http://config.streamstv.me:8080/FARUK/123456/20947
+#EXTINF:-1,DE: RTL II HD
+http://config.streamstv.me:8080/FARUK/123456/20946
+#EXTINF:-1,DE: RTL II FHD
+http://config.streamstv.me:8080/FARUK/123456/28420
+#EXTINF:-1,DE : RTL Crime
+http://config.streamstv.me:8080/FARUK/123456/20949
+#EXTINF:-1,DE: RTL Living HD
+http://config.streamstv.me:8080/FARUK/123456/20945
+#EXTINF:-1,DE: RTL Nitro HD
+http://config.streamstv.me:8080/FARUK/123456/20944
+#EXTINF:-1,DE: RTL Nitro FHD
+http://config.streamstv.me:8080/FARUK/123456/28435
+#EXTINF:-1,DE: RTL Passion
+http://config.streamstv.me:8080/FARUK/123456/20943
+#EXTINF:-1,DE: RTL plus
+http://config.streamstv.me:8080/FARUK/123456/20942
+#EXTINF:-1,DE: Super RTL FHD
+http://config.streamstv.me:8080/FARUK/123456/28403
+#EXTINF:-1,DE: ProSieben
+http://config.streamstv.me:8080/FARUK/123456/20958
+#EXTINF:-1,DE: ProSieben HD
+http://config.streamstv.me:8080/FARUK/123456/20957
+#EXTINF:-1,DE : ProSieben FHD
+http://config.streamstv.me:8080/FARUK/123456/28426
+#EXTINF:-1,DE: ProSieben Fun HD
+http://config.streamstv.me:8080/FARUK/123456/28425
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://config.streamstv.me:8080/FARUK/123456/20956
+#EXTINF:-1,DE: ProSieben MAXX FHD
+http://config.streamstv.me:8080/FARUK/123456/28424
+#EXTINF:-1,DE : SAT 1 HD
+http://config.streamstv.me:8080/FARUK/123456/20938
+#EXTINF:-1,DE: SAT 1 GOLD
+http://config.streamstv.me:8080/FARUK/123456/20939
+#EXTINF:-1,DE: SAT 1 emotions
+http://config.streamstv.me:8080/FARUK/123456/20940
+#EXTINF:-1,DE : Kabel eins
+http://config.streamstv.me:8080/FARUK/123456/20981
+#EXTINF:-1,DE: kabel eins FHD
+http://config.streamstv.me:8080/FARUK/123456/28383
+#EXTINF:-1,DE: kabel eins CLASSIC HD
+http://config.streamstv.me:8080/FARUK/123456/20983
+#EXTINF:-1,DE : VOX HD
+http://config.streamstv.me:8080/FARUK/123456/28391
+#EXTINF:-1,DE: VOX FHD
+http://config.streamstv.me:8080/FARUK/123456/20860
+#EXTINF:-1,DE : SIXX HD
+http://config.streamstv.me:8080/FARUK/123456/20935
+#EXTINF:-1,DE: SIXX FHD
+http://config.streamstv.me:8080/FARUK/123456/28417
+#EXTINF:-1,DE: TLC
+http://config.streamstv.me:8080/FARUK/123456/46132
+#EXTINF:-1,DE: TLC FHD
+http://config.streamstv.me:8080/FARUK/123456/20869
+#EXTINF:-1,DE: Arte HD
+http://config.streamstv.me:8080/FARUK/123456/21028
+#EXTINF:-1,DE: Arte FHD
+http://config.streamstv.me:8080/FARUK/123456/28384
+#EXTINF:-1,DE: 3Sat SD
+http://config.streamstv.me:8080/FARUK/123456/40718
+#EXTINF:-1,DE: 3sat HD
+http://config.streamstv.me:8080/FARUK/123456/21033
+#EXTINF:-1,DE: BR fernsehen
+http://config.streamstv.me:8080/FARUK/123456/21021
+#EXTINF:-1,DE : ORF 1(eins)
+http://config.streamstv.me:8080/FARUK/123456/40635
+#EXTINF:-1,DE: ORF 2 HD
+http://config.streamstv.me:8080/FARUK/123456/20961
+#EXTINF:-1,DE: ORF 3 HD
+http://config.streamstv.me:8080/FARUK/123456/40725
+#EXTINF:-1,DE: TELE 5 SD
+http://config.streamstv.me:8080/FARUK/123456/46133
+#EXTINF:-1,DE: TELE 5 FHD
+http://config.streamstv.me:8080/FARUK/123456/20870
+#EXTINF:-1,DE: n-tv HD
+http://config.streamstv.me:8080/FARUK/123456/20969
+#EXTINF:-1,DE: n-tv FHD
+http://config.streamstv.me:8080/FARUK/123456/28382
+#EXTINF:-1,DE: Phoenix HD
+http://config.streamstv.me:8080/FARUK/123456/20959
+#EXTINF:-1,DE: Disney Channel
+http://config.streamstv.me:8080/FARUK/123456/21010
+#EXTINF:-1,DE: Disney Channel HD
+http://config.streamstv.me:8080/FARUK/123456/40785
+#EXTINF:-1,DE: Disney Channel FHD
+http://config.streamstv.me:8080/FARUK/123456/28450
+#EXTINF:-1,DE: Disney Cinemagic HD
+http://config.streamstv.me:8080/FARUK/123456/21009
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://config.streamstv.me:8080/FARUK/123456/28449
+#EXTINF:-1,DE: Disney Junior HD
+http://config.streamstv.me:8080/FARUK/123456/21008
+#EXTINF:-1,DE: Disney XD
+http://config.streamstv.me:8080/FARUK/123456/21007
+#EXTINF:-1,DE: Junior
+http://config.streamstv.me:8080/FARUK/123456/20984
+#EXTINF:-1,DE: Nickelodeon HD
+http://config.streamstv.me:8080/FARUK/123456/20962
+#EXTINF:-1,DE: Nickelodeon FHD
+http://config.streamstv.me:8080/FARUK/123456/28430
+#EXTINF:-1,DE: KiKa
+http://config.streamstv.me:8080/FARUK/123456/20980
+#EXTINF:-1,DE: KiKa FHD
+http://config.streamstv.me:8080/FARUK/123456/28442
+#EXTINF:-1,DE: TOGGO plus
+http://config.streamstv.me:8080/FARUK/123456/20865
+#EXTINF:-1,DE: Boomerang
+http://config.streamstv.me:8080/FARUK/123456/21023
+#EXTINF:-1,DE: Fix and Foxi
+http://config.streamstv.me:8080/FARUK/123456/28445
+#EXTINF:-1,DE: RiC
+http://config.streamstv.me:8080/FARUK/123456/20951
+#EXTINF:-1,DE: Baby TV
+http://config.streamstv.me:8080/FARUK/123456/71036
+#EXTINF:-1,DE: 13th Street HD
+http://config.streamstv.me:8080/FARUK/123456/21034
+#EXTINF:-1,DE : 13th Street FHD
+http://config.streamstv.me:8080/FARUK/123456/28465
+#EXTINF:-1,DE: AXN HD
+http://config.streamstv.me:8080/FARUK/123456/21025
+#EXTINF:-1,DE: AXN FHD
+http://config.streamstv.me:8080/FARUK/123456/28461
+#EXTINF:-1,DE: FOX
+http://config.streamstv.me:8080/FARUK/123456/20991
+#EXTINF:-1,DE: FOX FHD
+http://config.streamstv.me:8080/FARUK/123456/28446
+#EXTINF:-1,DE : Syfy
+http://config.streamstv.me:8080/FARUK/123456/20872
+#EXTINF:-1,DE: Syfy FHD
+http://config.streamstv.me:8080/FARUK/123456/28402
+#EXTINF:-1,DE : TNT Comedy FHD
+http://config.streamstv.me:8080/FARUK/123456/28401
+#EXTINF:-1,DE: TNT Comedy HD
+http://config.streamstv.me:8080/FARUK/123456/20868
+#EXTINF:-1,DE: TNT Film FHD
+http://config.streamstv.me:8080/FARUK/123456/28400
+#EXTINF:-1,DE: TNT Film SD
+http://config.streamstv.me:8080/FARUK/123456/20867
+#EXTINF:-1,DE : TNT Serie FHD
+http://config.streamstv.me:8080/FARUK/123456/28399
+#EXTINF:-1,DE: TNT Serie HD
+http://config.streamstv.me:8080/FARUK/123456/20866
+#EXTINF:-1,DE : Universal Channel HD
+http://config.streamstv.me:8080/FARUK/123456/20862
+#EXTINF:-1,DE: Universal Channel FHD
+http://config.streamstv.me:8080/FARUK/123456/46130
+#EXTINF:-1,DE : Romance HD
+http://config.streamstv.me:8080/FARUK/123456/20950
+#EXTINF:-1,DE: Heimat kanal
+http://config.streamstv.me:8080/FARUK/123456/20989
+#EXTINF:-1,DE: Kinowelt TV
+http://config.streamstv.me:8080/FARUK/123456/20979
+#EXTINF:-1,DE: Kinowelt TV HD
+http://config.streamstv.me:8080/FARUK/123456/40706
+#EXTINF:-1,DE: A&E
+http://config.streamstv.me:8080/FARUK/123456/21032
+#EXTINF:-1,DE: A&E FHD
+http://config.streamstv.me:8080/FARUK/123456/28464
+#EXTINF:-1,DE: Sky A&E HD
+http://config.streamstv.me:8080/FARUK/123456/40630
+#EXTINF:-1,DE: PLANET HD
+http://config.streamstv.me:8080/FARUK/123456/42292
+#EXTINF:-1,DE: E! HD
+http://config.streamstv.me:8080/FARUK/123456/40633
+#EXTINF:-1,DE: ANIXE HD
+http://config.streamstv.me:8080/FARUK/123456/21030
+#EXTINF:-1,DE: Animal Planet HD
+http://config.streamstv.me:8080/FARUK/123456/21031
+#EXTINF:-1,DE: Animal Planet FHD
+http://config.streamstv.me:8080/FARUK/123456/28460
+#EXTINF:-1,DE: Discovery Channel HD
+http://config.streamstv.me:8080/FARUK/123456/21011
+#EXTINF:-1,DE: Discovery Channel FHD
+http://config.streamstv.me:8080/FARUK/123456/28451
+#EXTINF:-1,DE: History HD
+http://config.streamstv.me:8080/FARUK/123456/20988
+#EXTINF:-1,DE: History FHD
+http://config.streamstv.me:8080/FARUK/123456/28443
+#EXTINF:-1,DE: National Geographic
+http://config.streamstv.me:8080/FARUK/123456/20965
+#EXTINF:-1,DE: National Geographic HD
+http://config.streamstv.me:8080/FARUK/123456/20964
+#EXTINF:-1,DE: National Geographic FHD
+http://config.streamstv.me:8080/FARUK/123456/28431
+#EXTINF:-1,DE: Nat Geo Wild
+http://config.streamstv.me:8080/FARUK/123456/20966
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://config.streamstv.me:8080/FARUK/123456/28432
+#EXTINF:-1,DE: DMAX HD
+http://config.streamstv.me:8080/FARUK/123456/21006
+#EXTINF:-1,DE: kabel eins Doku HD
+http://config.streamstv.me:8080/FARUK/123456/20982
+#EXTINF:-1,DE: SPIEGEL Geschichte
+http://config.streamstv.me:8080/FARUK/123456/20878
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://config.streamstv.me:8080/FARUK/123456/20877
+#EXTINF:-1,DE: Spiegel TV Wissen FHD
+http://config.streamstv.me:8080/FARUK/123456/28404
+#EXTINF:-1,DE: Welt der Wunder SD
+http://config.streamstv.me:8080/FARUK/123456/20858
+#EXTINF:-1,DE: MTV FHD
+http://config.streamstv.me:8080/FARUK/123456/28439
+#EXTINF:-1,DE: MTV Brand New
+http://config.streamstv.me:8080/FARUK/123456/28440
+#EXTINF:-1,DE: MTV Hits
+http://config.streamstv.me:8080/FARUK/123456/28438
+#EXTINF:-1,DE: MTV ROCKS
+http://config.streamstv.me:8080/FARUK/123456/28437
+#EXTINF:-1,DE: XITE
+http://config.streamstv.me:8080/FARUK/123456/28388
+#EXTINF:-1,DE: NRJ Hits
+http://config.streamstv.me:8080/FARUK/123456/28434
+#EXTINF:-1,DE: NRJ TV
+http://config.streamstv.me:8080/FARUK/123456/28433
+#EXTINF:-1,DE: Deluxe Music
+http://config.streamstv.me:8080/FARUK/123456/21013
+#EXTINF:-1,DE: Deluxe Music HD
+http://config.streamstv.me:8080/FARUK/123456/28452
+#EXTINF:-1,DE: Jukebox
+http://config.streamstv.me:8080/FARUK/123456/20985
+#EXTINF:-1,DE: Sky 1 HD
+http://config.streamstv.me:8080/FARUK/123456/40751
+#EXTINF:-1,DE : Sky 1 FHD
+http://config.streamstv.me:8080/FARUK/123456/28415
+#EXTINF:-1,DE: Sky Arts
+http://config.streamstv.me:8080/FARUK/123456/20934
+#EXTINF:-1,DE: Sky ARTS FHD
+http://config.streamstv.me:8080/FARUK/123456/28414
+#EXTINF:-1,DE: Sky Atlantic HD
+http://config.streamstv.me:8080/FARUK/123456/20933
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://config.streamstv.me:8080/FARUK/123456/28412
+#EXTINF:-1,DE: Sky Cinema HD
+http://config.streamstv.me:8080/FARUK/123456/20925
+#EXTINF:-1,DE : Sky Cinema FHD
+http://config.streamstv.me:8080/FARUK/123456/28408
+#EXTINF:-1,DE: Sky Cinema +1 HD
+http://config.streamstv.me:8080/FARUK/123456/20932
+#EXTINF:-1,DE: Sky Cinema +1 FHD
+http://config.streamstv.me:8080/FARUK/123456/28411
+#EXTINF:-1,DE: Sky Cinema +24 HD
+http://config.streamstv.me:8080/FARUK/123456/20931
+#EXTINF:-1,DE: Sky Cinema +24 FHD
+http://config.streamstv.me:8080/FARUK/123456/28410
+#EXTINF:-1,DE : Sky Cinema Action HD
+http://config.streamstv.me:8080/FARUK/123456/20930
+#EXTINF:-1,DE : Sky Cinema Action FHD
+http://config.streamstv.me:8080/FARUK/123456/28409
+#EXTINF:-1,DE : Sky Cinema Comedy HD
+http://config.streamstv.me:8080/FARUK/123456/20929
+#EXTINF:-1,DE: Sky Cinema Emotion
+http://config.streamstv.me:8080/FARUK/123456/20928
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+http://config.streamstv.me:8080/FARUK/123456/20927
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://config.streamstv.me:8080/FARUK/123456/28407
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://config.streamstv.me:8080/FARUK/123456/20926
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://config.streamstv.me:8080/FARUK/123456/28406
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://config.streamstv.me:8080/FARUK/123456/20924
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://config.streamstv.me:8080/FARUK/123456/20923
+#EXTINF:-1,DE: Sky Cinema SD
+http://config.streamstv.me:8080/FARUK/123456/40752
+#EXTINF:-1,DE: Sky Cinema WESTERN
+http://config.streamstv.me:8080/FARUK/123456/40767
+#EXTINF:-1,DE: Sky Krimi
+http://config.streamstv.me:8080/FARUK/123456/20922
+#EXTINF:-1,DE: Sky Krimi HD
+http://config.streamstv.me:8080/FARUK/123456/87469
+#EXTINF:-1,DE: Sky Heimatkanal
+http://config.streamstv.me:8080/FARUK/123456/40705
+#EXTINF:-1,DE: Sky DMAX HD
+http://config.streamstv.me:8080/FARUK/123456/42291
+#EXTINF:-1,DE: SKY SELECT 1
+http://config.streamstv.me:8080/FARUK/123456/20915
+#EXTINF:-1,DE: Sky Select 1 HD
+http://config.streamstv.me:8080/FARUK/123456/20913
+#EXTINF:-1,DE: SKY SELECT 1 FHD
+http://config.streamstv.me:8080/FARUK/123456/20914
+#EXTINF:-1,DE: SKY SELECT 2
+http://config.streamstv.me:8080/FARUK/123456/20912
+#EXTINF:-1,DE: Sky Select 2 HD
+http://config.streamstv.me:8080/FARUK/123456/20910
+#EXTINF:-1,DE: SKY SELECT 2 FHD
+http://config.streamstv.me:8080/FARUK/123456/20911
+#EXTINF:-1,DE: SKY SELECT 3
+http://config.streamstv.me:8080/FARUK/123456/20909
+#EXTINF:-1,DE: Sky Select 3 HD
+http://config.streamstv.me:8080/FARUK/123456/20907
+#EXTINF:-1,DE: SKY SELECT 3 FHD
+http://config.streamstv.me:8080/FARUK/123456/20908
+#EXTINF:-1,DE: SKY SELECT 4
+http://config.streamstv.me:8080/FARUK/123456/20906
+#EXTINF:-1,DE: Sky Select 4 HD
+http://config.streamstv.me:8080/FARUK/123456/20904
+#EXTINF:-1,DE: SKY SELECT 4 FHD
+http://config.streamstv.me:8080/FARUK/123456/20905
+#EXTINF:-1,DE: SKY SELECT 5
+http://config.streamstv.me:8080/FARUK/123456/20903
+#EXTINF:-1,DE: Sky Select 5 HD
+http://config.streamstv.me:8080/FARUK/123456/20901
+#EXTINF:-1,DE: SKY SELECT 5 FHD
+http://config.streamstv.me:8080/FARUK/123456/20902
+#EXTINF:-1,DE: Sky Select 6 HD
+http://config.streamstv.me:8080/FARUK/123456/20899
+#EXTINF:-1,DE: SKY SELECT 6 FHD
+http://config.streamstv.me:8080/FARUK/123456/20900
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://config.streamstv.me:8080/FARUK/123456/42294
+#EXTINF:-1,DE: SKY SELECT 7 FHD
+http://config.streamstv.me:8080/FARUK/123456/20898
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://config.streamstv.me:8080/FARUK/123456/42295
+#EXTINF:-1,DE: SKY SELECT 8 FHD
+http://config.streamstv.me:8080/FARUK/123456/20897
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://config.streamstv.me:8080/FARUK/123456/42296
+#EXTINF:-1,DE: SKY SELECT 9 FHD
+http://config.streamstv.me:8080/FARUK/123456/40708
+#EXTINF:-1,DE: Sky Select 10 HD
+http://config.streamstv.me:8080/FARUK/123456/42297
+#EXTINF:-1,DE: SKY SELECT 11 HD
+http://config.streamstv.me:8080/FARUK/123456/42298
+#EXTINF:-1,DE: SKY SELECT 12 HD
+http://config.streamstv.me:8080/FARUK/123456/42299
+#EXTINF:-1,DE: Film Club 1 HD
+http://config.streamstv.me:8080/FARUK/123456/28367
+#EXTINF:-1,DE: Film Club 2 HD
+http://config.streamstv.me:8080/FARUK/123456/28366
+#EXTINF:-1,DE: Film Club 3 HD
+http://config.streamstv.me:8080/FARUK/123456/28365
+#EXTINF:-1,DE: Film Club 4 HD
+http://config.streamstv.me:8080/FARUK/123456/28364
+#EXTINF:-1,DE: Film Club 5 HD
+http://config.streamstv.me:8080/FARUK/123456/28363
+#EXTINF:-1,DE: Elite Cinema 1 HD
+http://config.streamstv.me:8080/FARUK/123456/28381
+#EXTINF:-1,DE: Elite Cinema 2 HD
+http://config.streamstv.me:8080/FARUK/123456/28380
+#EXTINF:-1,DE: Elite Cinema 3 HD
+http://config.streamstv.me:8080/FARUK/123456/28379
+#EXTINF:-1,DE: Elite Cinema 4 HD
+http://config.streamstv.me:8080/FARUK/123456/28378
+#EXTINF:-1,DE: Elite Select 1 HD
+http://config.streamstv.me:8080/FARUK/123456/28376
+#EXTINF:-1,DE: Elite Select 2 HD
+http://config.streamstv.me:8080/FARUK/123456/28375
+#EXTINF:-1,DE: Elite Select 6 HD
+http://config.streamstv.me:8080/FARUK/123456/28371
+#EXTINF:-1,DE: Sky Popcorn Select 1 HD
+http://config.streamstv.me:8080/FARUK/123456/20921
+#EXTINF:-1,DE: Sky Popcorn Select 2 HD
+http://config.streamstv.me:8080/FARUK/123456/20920
+#EXTINF:-1,DE: Sky Popcorn Select 3 HD
+http://config.streamstv.me:8080/FARUK/123456/20919
+#EXTINF:-1,DE: Sky Popcorn Select 4 HD
+http://config.streamstv.me:8080/FARUK/123456/20918
+#EXTINF:-1,DE: MAX Premiere 1 HD
+http://config.streamstv.me:8080/FARUK/123456/49238
+#EXTINF:-1,DE: MAX Premiere 2 HD
+http://config.streamstv.me:8080/FARUK/123456/49239
+#EXTINF:-1,DE: MAX Premiere 3 HD
+http://config.streamstv.me:8080/FARUK/123456/49240
+#EXTINF:-1,DE: MOVIESINEMA GERMAN 2 HD
+http://config.streamstv.me:8080/FARUK/123456/20974
+#EXTINF:-1,DE: Eagle Cinema Abenteuer HD
+http://config.streamstv.me:8080/FARUK/123456/74103
+#EXTINF:-1,DE: Eagle Cinema Aktion HD
+http://config.streamstv.me:8080/FARUK/123456/74096
+#EXTINF:-1,DE: Eagle Cinema Animation HD
+http://config.streamstv.me:8080/FARUK/123456/74101
+#EXTINF:-1,DE: Eagle Cinema Drama HD
+http://config.streamstv.me:8080/FARUK/123456/74099
+#EXTINF:-1,DE: Eagle Cinema Geschichte HD
+http://config.streamstv.me:8080/FARUK/123456/74102
+#EXTINF:-1,DE: Eagle Cinema Horror HD
+http://config.streamstv.me:8080/FARUK/123456/74100
+#EXTINF:-1,DE: Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
+http://config.streamstv.me:8080/FARUK/123456/74104
+#EXTINF:-1,DE: Eagle Cinema Komodie HD
+http://config.streamstv.me:8080/FARUK/123456/74098
+#EXTINF:-1,DE: Eagle Cinema Lächeln HD
+http://config.streamstv.me:8080/FARUK/123456/74105
+#EXTINF:-1,DE: Eagle Cinema Mythologie HD
+http://config.streamstv.me:8080/FARUK/123456/74106
+#EXTINF:-1,DE: Eagle Cinema Premiere HD
+http://config.streamstv.me:8080/FARUK/123456/74107
+#EXTINF:-1,DE: Eagle Cinema Romantisch HD
+http://config.streamstv.me:8080/FARUK/123456/74108
+#EXTINF:-1,DE: Eagle Cinema Sci-Fi HD
+http://config.streamstv.me:8080/FARUK/123456/74097
+#EXTINF:-1,DE: Eagle Cinema Thriller HD
+http://config.streamstv.me:8080/FARUK/123456/74109
+#EXTINF:-1,DE: Eagle Game of Thrones S08
+http://config.streamstv.me:8080/FARUK/123456/74110
+#EXTINF:-1,DE: Eagle Peppa Wutz FHD
+http://config.streamstv.me:8080/FARUK/123456/74111
+#EXTINF:-1,DE: Sky Sport News HD
+http://config.streamstv.me:8080/FARUK/123456/20880
+#EXTINF:-1,DE : Sky Sport Bundesliga 1 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28345
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20886
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28343
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20885
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28342
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20884
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28341
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20883
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28340
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20882
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28339
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20881
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28338
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28337
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28336
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28344
+#EXTINF:-1,DE : Sky Sport 1 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28357
+#EXTINF:-1,DE: Sky Sport 1 HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20896
+#EXTINF:-1,DE: Sky Sport 2 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28354
+#EXTINF:-1,DE: Sky Sport 2 HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20895
+#EXTINF:-1,DE: Sky Sport 3 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20894
+#EXTINF:-1,DE: Sky Sport 4 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28352
+#EXTINF:-1,DE: Sky Sport 4 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20893
+#EXTINF:-1,DE: Sky Sport 5 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28351
+#EXTINF:-1,DE: Sky Sport 5 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20892
+#EXTINF:-1,DE: Sky Sport 6 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28350
+#EXTINF:-1,DE: Sky Sport 6 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20891
+#EXTINF:-1,DE: Sky Sport 7 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28349
+#EXTINF:-1,DE: Sky Sport 7 HD ( MATCH TIME ) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20890
+#EXTINF:-1,DE: Sky Sport 8 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28348
+#EXTINF:-1,DE: Sky Sport 8 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20889
+#EXTINF:-1,DE: Sky Sport 9 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28347
+#EXTINF:-1,DE: Sky Sport 9 HD (Live Event) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20888
+#EXTINF:-1,DE: Sky Sport 10 FHD (Match time) (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28356
+#EXTINF:-1,DE: SPORT1+ FHD
+http://config.streamstv.me:8080/FARUK/123456/42310
+#EXTINF:-1,DE: FC Bayern TV
+http://config.streamstv.me:8080/FARUK/123456/20993
+#EXTINF:-1,DE: FC Bayern TV FHD
+http://config.streamstv.me:8080/FARUK/123456/28359
+#EXTINF:-1,DE: Sky Sport Austria HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20887
+#EXTINF:-1,DE: Sky Sport Austria FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28346
+#EXTINF:-1,DE: ORF Sport + HD
+http://config.streamstv.me:8080/FARUK/123456/42311
+#EXTINF:-1,DE: Eurosport 1 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28362
+#EXTINF:-1,DE: Eurosport 1 HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/21003
+#EXTINF:-1,DE: Eurosport 2 (NULL)
+http://config.streamstv.me:8080/FARUK/123456/21002
+#EXTINF:-1,DE: Eurosport 2 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28361
+#EXTINF:-1,DE: Eurosport 2 Xtra FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28360
+#EXTINF:-1,DE: Eurosport 2 Xtra HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/21001
+#EXTINF:-1,DE: Sport1 FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28332
+#EXTINF:-1,DE: Sport1 HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20876
+#EXTINF:-1,DE: Sport1 US FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28331
+#EXTINF:-1,DE: Sport Digital HD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/20875
+#EXTINF:-1,DE: Sport digital FHD (NULL)
+http://config.streamstv.me:8080/FARUK/123456/28330
+#EXTINF:-1,DE: Auto Motor und Sport FHD
+http://config.streamstv.me:8080/FARUK/123456/28459
+#EXTINF:-1,DE: Motorvision HD
+http://config.streamstv.me:8080/FARUK/123456/28358
+#EXTINF:-1,DE: Motorvision TV
+http://config.streamstv.me:8080/FARUK/123456/20976
+#EXTINF:-1,DE: RAN 1
+http://config.streamstv.me:8080/FARUK/123456/28422
+#EXTINF:-1,DE: WWE
+http://config.streamstv.me:8080/FARUK/123456/20857
+#EXTINF:-1,DE: HR fernsehen
+http://config.streamstv.me:8080/FARUK/123456/20987
+#EXTINF:-1,DE: HR fernsehen HD
+http://config.streamstv.me:8080/FARUK/123456/28444
+#EXTINF:-1,DE: MDR HD
+http://config.streamstv.me:8080/FARUK/123456/20978
+#EXTINF:-1,DE: NDR fernsehen HD
+http://config.streamstv.me:8080/FARUK/123456/20963
+#EXTINF:-1,DE: rbb fernsehen HD
+http://config.streamstv.me:8080/FARUK/123456/20952
+#EXTINF:-1,DE: SWR fernsehen HD
+http://config.streamstv.me:8080/FARUK/123456/20873
+#EXTINF:-1,DE: Servus TV HD
+http://config.streamstv.me:8080/FARUK/123456/20937
+#EXTINF:-1,DE: Comedy Central SD
+http://config.streamstv.me:8080/FARUK/123456/45935
+#EXTINF:-1,DE: Comedy Central HD
+http://config.streamstv.me:8080/FARUK/123456/20861
+#EXTINF:-1,DE: ARD One HD
+http://config.streamstv.me:8080/FARUK/123456/40716
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://config.streamstv.me:8080/FARUK/123456/28395
+#EXTINF:-1,DE: Bibel TV FHD
+http://config.streamstv.me:8080/FARUK/123456/28458
+#EXTINF:-1,DE: Noa4 Norderstedt FHD
+http://config.streamstv.me:8080/FARUK/123456/28429
+#EXTINF:-1,DE: Sony TV FHD
+http://config.streamstv.me:8080/FARUK/123456/20879
+#EXTINF:-1,DE: Sonnenklar TV FHD
+http://config.streamstv.me:8080/FARUK/123456/28405
+#EXTINF:-1,DE: Astro TV
+http://config.streamstv.me:8080/FARUK/123456/21027
+#EXTINF:-1,DE: Augsburg TV FHD
+http://config.streamstv.me:8080/FARUK/123456/21026
+#EXTINF:-1,DE: Zee One HD
+http://config.streamstv.me:8080/FARUK/123456/20853
+#EXTINF:-1,DE: Zee One FHD
+http://config.streamstv.me:8080/FARUK/123456/28385
+#EXTINF:-1,DE: Dresden Fernsehen
+http://config.streamstv.me:8080/FARUK/123456/28448
+#EXTINF:-1,DE: EuroNews SD
+http://config.streamstv.me:8080/FARUK/123456/28447
+#EXTINF:-1,DE: Kronehit TV
+http://config.streamstv.me:8080/FARUK/123456/28441
+#EXTINF:-1,DE: Oberpfalz TV
+http://config.streamstv.me:8080/FARUK/123456/28428
+#EXTINF:-1,DE: One
+http://config.streamstv.me:8080/FARUK/123456/28427
+#EXTINF:-1,DE: TRP 1
+http://config.streamstv.me:8080/FARUK/123456/28398
+#EXTINF:-1,DE: TV Aktuelle
+http://config.streamstv.me:8080/FARUK/123456/28397
+#EXTINF:-1,DE: Travel HD
+http://config.streamstv.me:8080/FARUK/123456/28394
+#EXTINF:-1,DE: Westerwald TV
+http://config.streamstv.me:8080/FARUK/123456/28389
+#EXTINF:-1,DE: WDR fernsehen HD
+http://config.streamstv.me:8080/FARUK/123456/20859
+#EXTINF:-1,DE: CLASSICA FHD
+http://config.streamstv.me:8080/FARUK/123456/28457
+#EXTINF:-1,DE: QVC
+http://config.streamstv.me:8080/FARUK/123456/20955
+#EXTINF:-1,DE: ATV HD
+http://config.streamstv.me:8080/FARUK/123456/40726
+#EXTINF:-1,DE: Blizz HD
+http://config.streamstv.me:8080/FARUK/123456/40723
+#EXTINF:-1,DE: SRF 1 HD
+http://config.streamstv.me:8080/FARUK/123456/40641
+#EXTINF:-1,DE: SRF 2 HD
+http://config.streamstv.me:8080/FARUK/123456/40642
+#EXTINF:-1,DE: WELT HD
+http://config.streamstv.me:8080/FARUK/123456/40724
+#EXTINF:-1,DE: 1-2-3 TV SD
+http://config.streamstv.me:8080/FARUK/123456/42434
+#EXTINF:-1,DE: ALEX TV SD
+http://config.streamstv.me:8080/FARUK/123456/42435
+#EXTINF:-1,DE: GO TV
+http://config.streamstv.me:8080/FARUK/123456/42288
+#EXTINF:-1,DE: N24 Doku
+http://config.streamstv.me:8080/FARUK/123456/42289
+#EXTINF:-1,DE: Chemnitz Fernsehen
+http://config.streamstv.me:8080/FARUK/123456/28456
+#EXTINF:-1,DE: DAF
+http://config.streamstv.me:8080/FARUK/123456/28455
+#EXTINF:-1,DE: DW TV
+http://config.streamstv.me:8080/FARUK/123456/28454
+#EXTINF:-1,DE: Sky Select 1 4K
+http://config.streamstv.me:8080/FARUK/123456/75570
+#EXTINF:-1,DE: Sky Select 2 4K
+http://config.streamstv.me:8080/FARUK/123456/75569
+#EXTINF:-1,DE: Sky Select 3 4K
+http://config.streamstv.me:8080/FARUK/123456/75568
+#EXTINF:-1,DE: Sky Select 4 4K
+http://config.streamstv.me:8080/FARUK/123456/75567
+#EXTINF:-1,DE: Sky Select 5 4K
+http://config.streamstv.me:8080/FARUK/123456/75566
+#EXTINF:-1,DE: Sky Select 6 4K
+http://config.streamstv.me:8080/FARUK/123456/75565
+#EXTINF:-1,DE: Telekom Fussball 1 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/81285
+#EXTINF:-1,DE: Telekom Fussball 2 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/81284
+#EXTINF:-1,DE: Telekom Fussball 3 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/81283
+#EXTINF:-1,DE: Telekom Fussball 4 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/81282
+#EXTINF:-1,DE: Telekom Fussball 5 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/94064
+#EXTINF:-1,DE: Telekom Fussball 6 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/94065
+#EXTINF:-1,DE: Telekom Fussball 7 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/94066
+#EXTINF:-1,DE: Telekom Fussball 8 HD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/94067
+#EXTINF:-1,DE: Telekom Eishockey 1 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69834
+#EXTINF:-1,DE: Telekom Eishockey 2 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69833
+#EXTINF:-1,DE: Telekom Eishockey 3 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69832
+#EXTINF:-1,DE: Telekom Eishockey 4 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69831
+#EXTINF:-1,DE: Telekom Eishockey 5 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69830
+#EXTINF:-1,DE: Telekom Eishockey 6 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69829
+#EXTINF:-1,DE: Telekom Eishockey 7 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69828
+#EXTINF:-1,DE: Telekom Basketball 1 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69827
+#EXTINF:-1,DE: Telekom Basketball 2 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69826
+#EXTINF:-1,DE: Telekom Basketball 3 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69825
+#EXTINF:-1,DE: Telekom Basketball 4 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69824
+#EXTINF:-1,DE: Telekom Basketball 5 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69823
+#EXTINF:-1,DE: Telekom Basketball 6 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69822
+#EXTINF:-1,DE: Telekom Basketball 7 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69821
+#EXTINF:-1,DE: Telekom Basketball 8 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69820
+#EXTINF:-1,DE: Telekom Basketball 9 FHD [Live During Events Only]
+http://config.streamstv.me:8080/FARUK/123456/69819
